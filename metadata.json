@@ -1,0 +1,5 @@
+{
+  "name": "Flux AI Scheduler",
+  "description": "An intelligent productivity assistant that manages deep work blocks, provides reasoning for scheduling decisions, and visualizes task priorities using the Gemini API.",
+  "requestFramePermissions": []
+}
